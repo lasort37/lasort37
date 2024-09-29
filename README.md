@@ -4,6 +4,6 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 ##Languages
 
--Spanish 
--French 
--English
+- Spanish 
+- French 
+- English
